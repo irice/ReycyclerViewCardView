@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReycyclerViewCardView</string>
+    <string name="news_one_title">第一个view</string>
+    <string name="news_one_desc"> 限于篇幅，除了CardView和RecyclerView，其余的部分讲解的不太详细，这部分不太熟悉的可以留言讨论哈。RecyclerView理论上是可以完成ListView所有可以完成的，但代码比较复杂，所以二者的使用根据自己的具体情况而定，不过在Material Design下，数据集比较复杂时建议使用RecyclerView！</string>
+    <string name="news_two_title">第二个view</string>
+    <string name="news_two_desc"> 限于篇幅，除了CardView和RecyclerView，其余的部分讲解的不太详细，这部分不太熟悉的可以留言讨论哈。RecyclerView理论上是可以完成ListView所有可以完成的，但代码比较复杂，所以二者的使用根据自己的具体情况而定，不过在Material Design下，数据集比较复杂时建议使用RecyclerView！</string>
+    <string name="news_three_title">第三个view</string>
+    <string name="news_three_desc"> 限于篇幅，除了CardView和RecyclerView，其余的部分讲解的不太详细，这部分不太熟悉的可以留言讨论哈。RecyclerView理论上是可以完成ListView所有可以完成的，但代码比较复杂，所以二者的使用根据自己的具体情况而定，不过在Material Design下，数据集比较复杂时建议使用RecyclerView！</string>
+    <string name="news_four_title">第四个view</string>
+    <string name="news_four_desc"> 限于篇幅，除了CardView和RecyclerView，其余的部分讲解的不太详细，这部分不太熟悉的可以留言讨论哈。RecyclerView理论上是可以完成ListView所有可以完成的，但代码比较复杂，所以二者的使用根据自己的具体情况而定，不过在Material Design下，数据集比较复杂时建议使用RecyclerView！</string>
+
+</resources>
